@@ -105,7 +105,7 @@ class _SubmitPageState extends State<SubmitPage> {
                 ),
               ),
               SizedBox(
-                height: 80,
+                height: 50,
               ),
               Text(
                 "Add Photo",
@@ -125,7 +125,7 @@ class _SubmitPageState extends State<SubmitPage> {
                 ),
               ),
               SizedBox(
-                height: 80,
+                height: 70,
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
